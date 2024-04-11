@@ -1,0 +1,15 @@
+{
+  "name": "ngocdb-tea",
+  "version": "1.0.0",
+  "description": "trai dat nay la cua chung minh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ngocdb0994/ngocdb-tea.git"
+  },
+  "author": "ngocdb0994",
+  "license": "MIT"
+}
